@@ -1,4 +1,4 @@
-# WELCOME TO THE LEAGUE WHERE EVERYTHING IS POSSIBLE, BUT IMPOSSIBLE IS IMPOSSIBLE!
+# Welcome to Champions League!
 
 
 This website is a redesign of Champions League website.
